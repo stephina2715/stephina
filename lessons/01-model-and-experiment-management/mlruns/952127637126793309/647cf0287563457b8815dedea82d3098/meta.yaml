@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Git/stephina/lessons/01-model-and-experiment-management/mlruns/952127637126793309/647cf0287563457b8815dedea82d3098/artifacts
+end_time: 1704913603041
+entry_point_name: ''
+experiment_id: '952127637126793309'
+lifecycle_stage: active
+run_id: 647cf0287563457b8815dedea82d3098
+run_name: upbeat-cod-337
+run_uuid: 647cf0287563457b8815dedea82d3098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704913559089
+status: 3
+tags: []
+user_id: Stephanie

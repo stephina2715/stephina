@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Git/stephina/lessons/01-model-and-experiment-management/mlruns/751613127420444897/6504cbb5d57c44a494d7803411987768/artifacts
+end_time: 1704913255574
+entry_point_name: ''
+experiment_id: '751613127420444897'
+lifecycle_stage: active
+run_id: 6504cbb5d57c44a494d7803411987768
+run_name: agreeable-fox-433
+run_uuid: 6504cbb5d57c44a494d7803411987768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704913249245
+status: 3
+tags: []
+user_id: Stephanie

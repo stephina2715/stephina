@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706040443534
+current_stage: None
+description: null
+last_updated_timestamp: 1706040443534
+name: iris_lr_model
+run_id: 44fe32f57adf4d7d985a8c1002475cb8
+run_link: null
+source: file:///d:/Git/stephina/lessons/01-model-and-experiment-management/mlruns/751613127420444897/44fe32f57adf4d7d985a8c1002475cb8/artifacts/models
+status: READY
+status_message: null
+storage_location: file:///d:/Git/stephina/lessons/01-model-and-experiment-management/mlruns/751613127420444897/44fe32f57adf4d7d985a8c1002475cb8/artifacts/models
+user_id: null
+version: 4

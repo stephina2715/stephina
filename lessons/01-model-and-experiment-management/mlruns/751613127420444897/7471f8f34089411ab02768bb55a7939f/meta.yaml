@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Git/stephina/lessons/01-model-and-experiment-management/mlruns/751613127420444897/7471f8f34089411ab02768bb55a7939f/artifacts
+end_time: 1706038363317
+entry_point_name: ''
+experiment_id: '751613127420444897'
+lifecycle_stage: active
+run_id: 7471f8f34089411ab02768bb55a7939f
+run_name: fortunate-pug-905
+run_uuid: 7471f8f34089411ab02768bb55a7939f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706038354889
+status: 3
+tags: []
+user_id: Stephanie

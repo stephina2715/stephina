@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Git/stephina/lessons/01-model-and-experiment-management/mlruns/751613127420444897/44fe32f57adf4d7d985a8c1002475cb8/artifacts
+end_time: 1706040414616
+entry_point_name: ''
+experiment_id: '751613127420444897'
+lifecycle_stage: active
+run_id: 44fe32f57adf4d7d985a8c1002475cb8
+run_name: polite-dolphin-306
+run_uuid: 44fe32f57adf4d7d985a8c1002475cb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706040405853
+status: 3
+tags: []
+user_id: Stephanie

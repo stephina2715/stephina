@@ -11,6 +11,7 @@ from app_config import PATH_TO_PREPROCESSOR, PATH_TO_MODEL, CATEGORICAL_COLS
 
 
 app = FastAPI()
+
 class InputData(BaseModel):
     PULocationID: int
     DOLocationID: int
@@ -32,7 +33,7 @@ def run_inference(user_input: List[InputData], dv: DictVectorizer, model: BaseEs
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Inference API!"}
+    return {"message": "Welcome to the Stephanie Inference API!"}
 
 @app.post("/predict_duration")
 def predict_duration_route(payload: InputData):

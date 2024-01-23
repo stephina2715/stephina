@@ -29,12 +29,12 @@ def encode_categorical_cols(df: pd.DataFrame, categorical_cols: List[str] = None
     df[categorical_cols] = df[categorical_cols].astype("str")
     return df
 
-def load_preprocessor(path: str):
+def load_preprocessor(PATH_TO_PREPROCESSOR: str):
     try:
-        with open(path, "rb") as f:
+        with open(PATH_TO_PREPROCESSOR, "rb") as f:
             preprocessor = pickle.load(f)
         return preprocessor
     except FileNotFoundError:
-        raise FileNotFoundError(f"File not found at path: {path}")
+        raise FileNotFoundError(f"File not found at path: {PATH_TO_PREPROCESSOR}")
     except Exception as e:
         raise Exception(f"Error loading preprocessor: {e}")

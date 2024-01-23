@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Git/stephina/lessons/01-model-and-experiment-management/mlruns/751613127420444897/8059376ce0cc421d80c47ecac1cb2dbc/artifacts
+end_time: 1706041794090
+entry_point_name: ''
+experiment_id: '751613127420444897'
+lifecycle_stage: active
+run_id: 8059376ce0cc421d80c47ecac1cb2dbc
+run_name: painted-ape-958
+run_uuid: 8059376ce0cc421d80c47ecac1cb2dbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706041786571
+status: 3
+tags: []
+user_id: Stephanie

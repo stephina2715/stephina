@@ -1,7 +1,10 @@
+# app_config.py
+
 # MODELS
 MODEL_VERSION = "0.0.1"
-PATH_TO_PREPROCESSOR = f"C:/Git/Stephanie/stephina/lessons/02-model-deployment/web_service/local_models/dv_v/{MODEL_VERSION}.pkl"
-PATH_TO_MODEL = f"/C:/Git/Stephanie/stephina/lessons/02-model-deployment/web_service/local_models/model_v/{MODEL_VERSION}.pkl"
+PATH_TO_MODEL = r"C:\Git\Stephanie\stephina\lessons\02-model-deployment\web_service\local_models\model_v\{MODEL_VERSION}.pkl"  
+# TODO: fill in the path to the pipeline
+PATH_TO_PREPROCESSOR = r"C:\Git\Stephanie\stephina\lessons\02-model-deployment\web_service\local_models\dv_v\{MODEL_VERSION}.pkl"
 CATEGORICAL_COLS = ["PUlocationID", "DOlocationID", "passenger_count"]
 
 # MISC

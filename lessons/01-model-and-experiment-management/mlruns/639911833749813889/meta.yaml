@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Git/Stephanie/stephina/lessons/01-model-and-experiment-management/mlruns/639911833749813889
+creation_time: 1706042952745
+experiment_id: '639911833749813889'
+last_update_time: 1706042952745
+lifecycle_stage: active
+name: taxi_linear_model

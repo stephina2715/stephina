@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706043378621
+current_stage: Production
+description: null
+last_updated_timestamp: 1706043396621
+name: taxi_linear_model
+run_id: a0d654b1ba094732b2a65c86de2df92e
+run_link: null
+source: file:///c:/Git/Stephanie/stephina/lessons/01-model-and-experiment-management/mlruns/639911833749813889/a0d654b1ba094732b2a65c86de2df92e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Git/Stephanie/stephina/lessons/01-model-and-experiment-management/mlruns/639911833749813889/a0d654b1ba094732b2a65c86de2df92e/artifacts/model
+user_id: null
+version: 3

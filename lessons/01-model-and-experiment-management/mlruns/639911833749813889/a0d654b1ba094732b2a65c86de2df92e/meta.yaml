@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Git/Stephanie/stephina/lessons/01-model-and-experiment-management/mlruns/639911833749813889/a0d654b1ba094732b2a65c86de2df92e/artifacts
+end_time: 1706043378653
+entry_point_name: ''
+experiment_id: '639911833749813889'
+lifecycle_stage: active
+run_id: a0d654b1ba094732b2a65c86de2df92e
+run_name: amazing-flea-83
+run_uuid: a0d654b1ba094732b2a65c86de2df92e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706043331513
+status: 3
+tags: []
+user_id: Stephanie

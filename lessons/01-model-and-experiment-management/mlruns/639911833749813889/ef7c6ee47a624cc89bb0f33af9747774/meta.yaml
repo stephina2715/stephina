@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Git/Stephanie/stephina/lessons/01-model-and-experiment-management/mlruns/639911833749813889/ef7c6ee47a624cc89bb0f33af9747774/artifacts
+end_time: 1706043035033
+entry_point_name: ''
+experiment_id: '639911833749813889'
+lifecycle_stage: active
+run_id: ef7c6ee47a624cc89bb0f33af9747774
+run_name: crawling-fawn-376
+run_uuid: ef7c6ee47a624cc89bb0f33af9747774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706043031607
+status: 4
+tags: []
+user_id: Stephanie

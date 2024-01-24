@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706042371117
+current_stage: None
+description: null
+last_updated_timestamp: 1706042371117
+name: taxi_duration_model_v1
+run_id: 9df7ac80e2be4ed5a2215eca88044c12
+run_link: null
+source: file:///d:/Git/stephina/lessons/01-model-and-experiment-management/mlruns/952127637126793309/9df7ac80e2be4ed5a2215eca88044c12/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///d:/Git/stephina/lessons/01-model-and-experiment-management/mlruns/952127637126793309/9df7ac80e2be4ed5a2215eca88044c12/artifacts/model
+user_id: null
+version: 3
